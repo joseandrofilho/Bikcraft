@@ -64,6 +64,12 @@
     sans-serif;
 }
 
+.font-2-xl {
+  font:
+    400 2.25rem/1.33 "Roboto",
+    sans-serif;
+}
+
 .font-1-xxl {
   font:
     600 4rem/1.125 "Poppins",
